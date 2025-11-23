@@ -1,0 +1,6 @@
+{"request_id": "test-123", "accepted_index": 0, "metadata": {}, "timestamp": "2025-11-22T22:53:00.019809"}
+{"request_id": "test-456", "accepted_index": 1, "metadata": {"test_session": "regression_test_001", "browser": "chrome", "environment": "staging"}, "timestamp": "2025-11-22T22:53:00.023989"}
+{"request_id": "req-integration", "accepted_index": 0, "metadata": {"test_name": "integration_test", "locator_strategy": "healing"}, "timestamp": "2025-11-22T22:53:00.027065"}
+{"request_id": "test-123", "accepted_index": 0, "metadata": {}, "timestamp": "2025-11-22T22:54:02.635516"}
+{"request_id": "test-456", "accepted_index": 1, "metadata": {"test_session": "regression_test_001", "browser": "chrome", "environment": "staging"}, "timestamp": "2025-11-22T22:54:02.638774"}
+{"request_id": "req-integration", "accepted_index": 0, "metadata": {"test_name": "integration_test", "locator_strategy": "healing"}, "timestamp": "2025-11-22T22:54:02.641592"}
